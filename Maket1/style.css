@@ -1,0 +1,20 @@
+.card-item {
+  width: 325px;
+}
+
+.card-icons{
+  margin-left: 120px;
+}
+
+h3 {
+  font-size: 16px;
+  text-align: center;
+  font-weight: bold;
+  line-height: 24px;
+}
+
+p{
+  text-align: center;
+  font-size: 14px;
+  line-height: 20px;
+}
